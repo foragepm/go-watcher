@@ -1,0 +1,16 @@
+{
+  "name": "forage-go-watcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "node-fetch": "^2.6.1"
+  }
+}
